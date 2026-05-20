@@ -20,6 +20,19 @@ The company did not provide actual source inspection files, so this submission i
 - Submission checklist
 - Screenshot placeholders
 
+## Live Demo
+
+Live Demo:
+
+- STREAMLIT URL:
+https://ajay-chirmade-ddr-ai-assignment.streamlit.app/
+
+- Loom Video:
+https://www.loom.com/share/fc852adf5be64f2e8072224f1d64f840
+
+- GitHub Repository:
+https://github.com/chirmadeajay/Ajay_Chirmade_DDR_AI_Assignment
+
 ## Folder Structure
 
 ```text
